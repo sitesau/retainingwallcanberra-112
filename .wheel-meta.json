@@ -1,0 +1,22 @@
+{
+  "wheel_id": 886,
+  "structure": "umbrella",
+  "slug": "retainingwallcanberra-112",
+  "project": "retaining-wall-services-canberra-questions-to-ask-04df325af83c7",
+  "parent_t1_ref": "retainingwallcanberra-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallcanberra.com.au",
+  "primary_kw": "retaining wall services canberra questions to ask",
+  "intended_url": "http://retaining-wall-services-canberra-questions-to-ask-04df325af83c7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "1a77047145510358",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-services-canberra-2255738328e3cb0e51c34d1c28e36b/",
+      "anchor": "https://sites-e470-2.web.app/retaining-wall-services-canberra-2255738328e3cb0e51c34d1c28e36b/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
